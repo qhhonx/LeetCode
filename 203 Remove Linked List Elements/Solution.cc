@@ -9,6 +9,10 @@
 using namespace std;
 
 
+/**
+ * Copy from
+ * http://stackoverflow.com/questions/8542591/c11-reverse-range-based-for-loop
+ **/
 template<typename T>
 class reverse_adapter {
 public:
@@ -33,7 +37,7 @@ private:
 public:
     // build a link list with given head pointer
     void build(ListNode* &head, vector<int> v) {
-        ListNode *prev = NULL, *next = NULL;
+        ListNode *prev = nullptr, *next = nullptr;
         for (auto i : reverse_adapt_container(v)) {
             prev = new ListNode(i);
             prev->next = next;
