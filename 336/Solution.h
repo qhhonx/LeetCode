@@ -13,12 +13,15 @@
 
 using namespace std;
 
-// Assume that there are n unique words, and the average length of all words is k.
+// Assumed that there are n unique words, and the average length of all words is k.
 // The Brute-Force algorithm will get O(k*n*n) complexity.
+//
 // Below introduced solution obtains average O(k*k*n) complexity.
+//
 // Solution: Observed that a palindrome concatenated by two words indicates that
 // one word must be prefix/suffix of reversed of other word and its left part substring
 // also is palindrome.
+//
 // Algorithm: First build a map to record pair of index of each word and its reversed word.
 // Then iterate all given unique words {O(n)} and for each word enumerate its all prefix/suffix
 // substrings {O(k)} to check whether prefix/suffix substring exists in reversed-words-index-map {O(1)}
