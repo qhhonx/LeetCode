@@ -11,7 +11,7 @@
 using namespace std;
 
 /**
- * O(n*n*k) complexity, k is the average length of all squares.
+ * O(n*m*k) complexity, k is the average length of all squares.
  *
 class Solution {
 public:
@@ -63,7 +63,7 @@ public:
 */
 
 /**
- * Dynamic Programming Solution with O(n*n) complexity.
+ * Dynamic Programming Solution with O(n*m) complexity.
  */
 class Solution {
 public:
