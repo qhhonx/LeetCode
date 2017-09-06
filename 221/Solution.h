@@ -90,7 +90,7 @@ public:
 
         for (int i = 1; i < matrix.size(); ++i) {
             for (int j = 1; j < matrix[i].size(); ++j) {
-                if (matrix[i][j] == '1' && d[i - 1][j - 1] > 0 && d[i - 1][j] > 0 && d[i][j - 1] > 0) {
+                if (matrix[i][j] == '1') {
                     d[i][j] = min(d[i - 1][j - 1], min(d[i - 1][j], d[i][j - 1])) + 1;
                 } else {
                     d[i][j] = matrix[i][j] - '0';
