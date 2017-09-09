@@ -7,6 +7,7 @@ LeetCode solutions in C++ 11.
 |---|-----|--------|----|----------|
 |004|[Median of Two Sorted Arrays][004]|[C++](./004/Solution.h)|2017/06/28|Hard|
 |005|[Longest Palindromic Substring][005]|[C++](./005/Solution.h)|2017/07/17|Medium|
+|079|[Word Search][079]|[C++](./079/Solution.h)|2017/09/09|Medium|
 |085|[Maximal Rectangle][085]|[C++](./085/Solution.h)|2017/09/08|Hard|
 |134|[Gas Station][134]|[C++](./134/Solution.h)|2015/08/14|Medium|
 |203|[Remove Linked List Elements][203]|[C++](./203/Solution.h)|2015/04/25|Easy|
@@ -21,6 +22,7 @@ LeetCode solutions in C++ 11.
 
 [004]:https://leetcode.com/problems/median-of-two-sorted-arrays
 [005]:https://leetcode.com/problems/longest-palindromic-substring/
+[079]:https://leetcode.com/problems/word-search/
 [085]:https://leetcode.com/problems/maximal-rectangle/
 [134]:https://leetcode.com/problems/gas-station/
 [203]:https://leetcode.com/problems/remove-linked-list-elements/
