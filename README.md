@@ -12,6 +12,7 @@ LeetCode solutions in C++ 11.
 |203|[Remove Linked List Elements][203]|[C++](./203/Solution.h)|2015/04/25|Easy|
 |206|[Reverse Linked List][206]|[C++](./Solution.h)|2015/05/06|Easy|
 |208|[Implement Trie (Prefix Tree)][208]|[C++](./208/Solution.h)|2015/05/11|Medium|
+|220|[Contains Duplicate III][220]|[C++](./220/Solution.h)|2017/09/09|Medium|
 |221|[Maximal Square][221]|[C++](./221/Solution.h)|2017/09/05|Medium|
 |336|[Palindrome Pairs][336]|[C++](./336/Solution.h)|2017/09/03|Hard|
 
@@ -23,5 +24,6 @@ LeetCode solutions in C++ 11.
 [203]:https://leetcode.com/problems/remove-linked-list-elements/
 [206]:https://leetcode.com/problems/reverse-linked-list/
 [208]:https://leetcode.com/problems/implement-trie-prefix-tree/
+[220]:https://leetcode.com/problems/contains-duplicate-iii/
 [221]:https://leetcode.com/problems/maximal-square/
 [336]:https://leetcode.com/problems/palindrome-pairs/
