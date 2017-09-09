@@ -14,5 +14,8 @@ public:
 
         vector<int> nums1 = {10, 15, 18, 24};
         cout << s.containsNearbyAlmostDuplicate(nums1, 3, 3) << endl;
+
+        vector<int> nums2 = {1, 3, 1};
+        cout << s.containsNearbyAlmostDuplicate(nums2, 1, 1) << endl;
     }
 };
