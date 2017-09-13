@@ -13,6 +13,7 @@ LeetCode solutions in C++ 11.
 |203|[Remove Linked List Elements][203]|[C++](./203/Solution.h)|2015/04/25|Easy|
 |206|[Reverse Linked List][206]|[C++](./Solution.h)|2015/05/06|Easy|
 |208|[Implement Trie (Prefix Tree)][208]|[C++](./208/Solution.h)|2015/05/11|Medium|
+|212|[Word Search II][212]|[C++](./212/Solution.h)|2017/09/13|Hard|
 |217|[Contains Duplicate][217]|[C++](./217/Solution.h)|2017/09/09|Easy|
 |219|[Contains Duplicate II][219]|[C++](./219/Solution.h)|2017/09/09|Easy|
 |220|[Contains Duplicate III][220]|[C++](./220/Solution.h)|2017/09/09|Medium|
@@ -28,6 +29,7 @@ LeetCode solutions in C++ 11.
 [203]:https://leetcode.com/problems/remove-linked-list-elements/
 [206]:https://leetcode.com/problems/reverse-linked-list/
 [208]:https://leetcode.com/problems/implement-trie-prefix-tree/
+[212]:https://leetcode.com/problems/word-search-ii/
 [217]:https://leetcode.com/problems/contains-duplicate/
 [219]:https://leetcode.com/problems/contains-duplicate-ii/
 [220]:https://leetcode.com/problems/contains-duplicate-iii/
