@@ -10,6 +10,7 @@ LeetCode solutions in C++ 11.
 |079|[Word Search][079]|[C++](./079/Solution.h)|2017/09/09|Medium|
 |085|[Maximal Rectangle][085]|[C++](./085/Solution.h)|2017/09/08|Hard|
 |134|[Gas Station][134]|[C++](./134/Solution.h)|2015/08/14|Medium|
+|190|[Reverse Bits][190]|[C++](./190/Solution.h)|2017/09/15|Easy|
 |198|[House Robber][198]|[C++](./198/Solution.h)|2017/09/13|Easy|
 |202|[Happy Number][202]|[C++](./202/Solution.h)|2017/09/13|Easy|
 |203|[Remove Linked List Elements][203]|[C++](./203/Solution.h)|2015/04/25|Easy|
@@ -28,6 +29,7 @@ LeetCode solutions in C++ 11.
 [079]:https://leetcode.com/problems/word-search/
 [085]:https://leetcode.com/problems/maximal-rectangle/
 [134]:https://leetcode.com/problems/gas-station/
+[190]:https://leetcode.com/problems/reverse-bits/
 [198]:https://leetcode.com/problems/house-robber/
 [202]:https://leetcode.com/problems/happy-number/
 [203]:https://leetcode.com/problems/remove-linked-list-elements/
