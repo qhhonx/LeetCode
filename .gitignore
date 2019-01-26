@@ -1,6 +1,5 @@
 .idea/
 
-CMakeLists.txt
-main.cpp
-
-cmake-build-debug/
+/target
+**/*.rs.bk
+Cargo.lock
