@@ -22,8 +22,8 @@ LeetCode solutions in C++ 11.
 |220|[Contains Duplicate III][220]|[C++](./220/Solution.h)|2017/09/09|Medium|
 |221|[Maximal Square][221]|[C++](./221/Solution.h)|2017/09/05|Medium|
 |251|[Flatten 2D Vector][251]|[C++](./251/Solution.h)|2017/10/13|Medium|
+|301|[Remove Invalid Parentheses][301]|[C++](./301/Solution.h)|2017/10/13|Hard|
 |336|[Palindrome Pairs][336]|[C++](./336/Solution.h)|2017/09/03|Hard|
-
 
 [004]:https://leetcode.com/problems/median-of-two-sorted-arrays
 [005]:https://leetcode.com/problems/longest-palindromic-substring/
@@ -42,4 +42,5 @@ LeetCode solutions in C++ 11.
 [220]:https://leetcode.com/problems/contains-duplicate-iii/
 [221]:https://leetcode.com/problems/maximal-square/
 [251]:https://leetcode.com/problems/flatten-2d-vector/
+[301]:https://leetcode.com/problems/remove-invalid-parentheses/
 [336]:https://leetcode.com/problems/palindrome-pairs/
