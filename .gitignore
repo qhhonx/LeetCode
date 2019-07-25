@@ -1,5 +1,11 @@
 .idea/
 
-/target
-**/*.rs.bk
-Cargo.lock
+*.dSYM
+*_test
+*.exe
+*.o
+.*.c
+
+*.obj
+
+*.pdb

@@ -1,7 +1,7 @@
 LeetCode
 ========
 
-LeetCode solutions in Rust.
+LeetCode solutions in [V](https://vlang.io).
 
 |NO.|Title|Solution|Date|Difficulty|  
 |---|-----|--------|----|----------|
